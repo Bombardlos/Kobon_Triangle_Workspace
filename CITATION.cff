@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: KobonTriangle_KyleWood
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Kyle Wood
+    email: kylerobwood@gmail.com
+repository-code: 'https://github.com/Bombardlos/Kobon_Triangle_Workspace'
+abstract: >-
+  Code created to solve instances of the Kobon Triangle
+  Problem
+license: MIT
